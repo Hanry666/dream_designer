@@ -77,7 +77,7 @@ export default {
         width: 35%;
         height: 350px;
         padding-left: 0;
-        border: 1px solid #2e21c2;
+        border: .5px solid #2e21c2;
         box-shadow: 2px 2px 5px #6b29c3;
         box-shadow: 0px 1px 0px 0px 2px rgba(0,0,0,.3);
     }

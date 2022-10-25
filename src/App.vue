@@ -33,7 +33,6 @@ export default {
 li {
 	list-style: none;
 }
-
 html, body {
 	position: relative;
 	height: 100%;
