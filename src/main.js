@@ -6,6 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css' //引入bootstrap
 import 'bootstrap/dist/js/bootstrap.min.js'
 import VueRouter from 'vue-router';
 import router from './router'
+import 'hover.css'
 Vue.use(VueRouter);
 Vue.config.productionTip = false
 Vue.use(ElementUI);

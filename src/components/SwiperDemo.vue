@@ -6,7 +6,7 @@
       <img class="swiper-slide" src="../assets/tianyan/01.webp">
       <img class="swiper-slide" src="../assets/gaotie/01.webp">
       <img class="swiper-slide" src="../assets/jiaolong/01.webp">
-      <img class="swiper-slide" src="../assets/5g/01.webp">
+      <!-- <img class="swiper-slide" src="../assets/5g/01.webp"> -->
     </div>
     <!-- Add Pagination -->
     <!-- <div class="swiper-pagination"></div> -->
@@ -30,8 +30,8 @@ export default {
       this.$router.push('gaotie')
      }else if(Index===3){
       this.$router.push('jiaolong')
-     }else if(Index===4){
-      this.$router.push('5g')
+    //  }else if(Index===4){
+    //   this.$router.push('5g')
      }else if(Index===0){
       this.$router.push('20da')
      }

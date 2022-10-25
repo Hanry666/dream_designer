@@ -63,7 +63,6 @@ body {
   font-size: 40px;
   line-height: 100px;
   text-align: center;
-
 }
 .bottom {
   padding-top: 50px;
